@@ -8,7 +8,7 @@ Observaciones: a completar en el mainController
 1. Clonar el repositorio.
 
 ```
-git clone https://github.com/villalbajoaquin/mercado_liebre.git
+git clone https://github.com/villalbajoaquin/practica-mvc-ejs.git
 ```
 
 2. Hecho esto, con la consola apuntando a la carpeta del repo, intalamos las dependencias del proyecto.
